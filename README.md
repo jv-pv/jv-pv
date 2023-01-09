@@ -3,6 +3,6 @@
 - 🌱 I’m currently taking my first steps in learning front end web development, and in the process of earning second bachelors degree in cs and appliead digital technologies. 
 - 💞️ I’m looking to collaborate on creative coding and web design. I'm also intereseted in computer science as a whole. 
 - 📫 If you want to contact me feel free to reach me through my email === jvpieri.biz@gmail.com 
-- Have a great day! 🫶
+- Have a great day / night! 🫶
 
 
